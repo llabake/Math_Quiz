@@ -1,0 +1,23 @@
+{
+  "name": "math_quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llabake/Math_Quiz.git"
+  },
+  "keywords": [
+    "React",
+    "Javascript"
+  ],
+  "author": "Lemboye Omolabake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llabake/Math_Quiz/issues"
+  },
+  "homepage": "https://github.com/llabake/Math_Quiz#readme"
+}
